@@ -34,3 +34,7 @@ Experiencia previa con IA:
 Ya tenía experiencia previa utilizando herramientas de inteligencia artificial como apoyo para resolver dudas y explorar ideas. 
 
 En este proyecto las utilicé principalmente como herramientas de consulta para buscar y explorar opciones de colores. Mantuve el control sobre las decisiones finales y la implementación del proyecto.
+
+Pagina en VERCEL: https://pfo-1-amber.vercel.app/
+
+Pagina en GITHUB: https://sergiocesarbarrientos.github.io/PFO1/
